@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Practice-2\\Git-Tutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B73E481-9675-4E7F-B32E-2233F0C108EC}|Git-Tutorial\\Git-Tutorial.csproj|c:\\users\\hp\\onedrive\\workspace\\onedrive\\desktop\\git-practice-2\\git-tutorial\\git-tutorial\\version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73E481-9675-4E7F-B32E-2233F0C108EC}|Git-Tutorial\\Git-Tutorial.csproj|solutionrelative:git-tutorial\\version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B73E481-9675-4E7F-B32E-2233F0C108EC}|Git-Tutorial\\Git-Tutorial.csproj|c:\\users\\hp\\onedrive\\workspace\\onedrive\\desktop\\git-practice-2\\git-tutorial\\git-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B73E481-9675-4E7F-B32E-2233F0C108EC}|Git-Tutorial\\Git-Tutorial.csproj|solutionrelative:git-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Version1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Practice-2\\Git-Tutorial\\Git-Tutorial\\Version1.cs",
+              "RelativeDocumentMoniker": "Git-Tutorial\\Version1.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Practice-2\\Git-Tutorial\\Git-Tutorial\\Version1.cs",
+              "RelativeToolTip": "Git-Tutorial\\Version1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T12:10:11.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Practice-2\\Git-Tutorial\\Git-Tutorial\\Program.cs",
               "RelativeDocumentMoniker": "Git-Tutorial\\Program.cs",

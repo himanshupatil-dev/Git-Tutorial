@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\New-Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj": {
+    "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\New-Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\New-Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj",
         "projectName": "Git-Tutorial",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\New-Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\WorkSpace\\OneDrive\\Desktop\\New-Git-Tutorial\\Git-Tutorial\\Git-Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
